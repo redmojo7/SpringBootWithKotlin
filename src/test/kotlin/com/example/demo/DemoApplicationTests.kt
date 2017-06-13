@@ -11,6 +11,11 @@ class DemoApplicationTests {
 
 	@Test
 	fun contextLoads() {
+
+		// study site
+
+		// https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt
+
 		println("Hello, world!")
 	}
 
